@@ -1,4 +1,4 @@
-# Sentiment Analysis on Product Reviews
+# Sentiment Analysis in Product Reviews on Tokopedia
 
 ## Description
 This project aims to analyze the sentiment of product reviews using machine learning techniques. The developed model can classify reviews into positive, negative, or neutral categories. Then word mapping is carried out to produce a short summary based on the review.
